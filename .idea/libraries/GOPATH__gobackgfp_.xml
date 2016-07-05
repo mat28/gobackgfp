@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gobackgfp&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../goback" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
